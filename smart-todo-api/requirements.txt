@@ -1,0 +1,9 @@
+# Python version: 3.11.x
+
+fastapi
+uvicorn
+motor
+python-jose
+passlib[bcrypt]==1.7.4
+bcrypt==3.2.2
+python-dotenv
