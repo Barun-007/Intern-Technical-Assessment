@@ -24,7 +24,7 @@ This project implements an intelligent ranking algorithm for weekend travel reco
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weekend-getaway-ranker.git
+git clone https://github.com/Barun-007/weekend-getaway-ranker.git
 cd weekend-getaway-ranker
 ```
 
