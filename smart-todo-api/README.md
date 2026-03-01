@@ -61,7 +61,7 @@ smart-todo-api/
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/Barun-007/Intern-Technical-Assessment/tree/main/smart-todo-api
 cd smart-todo-api
 ```
 
